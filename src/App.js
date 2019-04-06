@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 // this is a comment
+// another comment
 class App extends Component {
   render() {
     return (
